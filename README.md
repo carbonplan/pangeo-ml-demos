@@ -11,7 +11,7 @@ This repository contains example notebooks associated with the ACCESS-19 project
 
 ## ESIP Cloud Computing Cluster Session - Zarr: The Next Generation
 
-This `esip-cloud-computing` directory contains example notebooks on how to create ARCO (Analysis-Ready Cloud-Optimized) 
+This `esip-cloud-computing` directory contains example notebooks on how to create ARCO (Analysis-Ready Cloud-Optimized)
 datasets using [Kerchunk](https://fsspec.github.io/kerchunk/) and [Pangeo-Forge](https://pangeo-forge.readthedocs.io/en/latest/).
 
 ## license
